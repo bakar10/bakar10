@@ -18,8 +18,8 @@
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/MAbobakr17#gh-light-mode-only)
 [![Twiiter](./img/twitter-dark.svg)](https://twitter.com/MAbobakr17#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Twitter](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-light-mode-only)
-[![Twitter](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-dark-mode-only)
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/[ICON SLUG].svg" />[](https://instagram.com/mohamed_abobakr17#gh-light-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -88,13 +88,6 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: https://twitter.com/MAbobakr17
+[instagram]: https://instagram.com/mohamed_abobakr17
+[linkedin]: https://linkedin.com/in/
