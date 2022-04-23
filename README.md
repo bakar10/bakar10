@@ -15,6 +15,11 @@
 
 ### Connect with me:
 
+<p align="center">
+  <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="350" title="Facebook">
+</p>
+
+
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
