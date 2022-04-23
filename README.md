@@ -15,11 +15,6 @@
 
 ### Connect with me:
 
-<p align="center">
-  <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="350" title="Facebook">
-</p>
-
-
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -47,13 +42,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 [twitter]: https://twitter.com/MAbobakr17
 [instagram]: https://instagram.com/mohamed_abobakr17
