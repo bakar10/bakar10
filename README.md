@@ -15,11 +15,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/MAbobakr17#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/MAbobakr17#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/MAbobakr17#gh-light-mode-only)
+[![Twiiter](./img/twitter-dark.svg)](https://twitter.com/MAbobakr17#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mohamed_abobakr17#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://instagram.com/mohamed_abobakr17#gh-dark-mode-only)
 
 ### Languages and Tools:
 
