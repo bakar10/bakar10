@@ -18,8 +18,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/MAbobakr17#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/MAbobakr17#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)]([linkedin]#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)]([linkedin]#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/mohamed_abobakr17#gh-dark-mode-only)
