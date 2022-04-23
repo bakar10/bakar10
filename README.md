@@ -3,7 +3,6 @@
 # Hi there 👋,I'm Mohamed
 
 
-# Hi there, I'm Mohamed  👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bakar10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MAbobakr17)
 
