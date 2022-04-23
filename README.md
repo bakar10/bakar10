@@ -1,6 +1,6 @@
 
 
-# Hi there 👋,I'm Mohamed - aka Bakar الخوللللههه
+# Hi there 👋,I'm Mohamed - aka Bakar 
 
 
 
