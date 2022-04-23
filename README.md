@@ -18,8 +18,8 @@
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/MAbobakr17#gh-light-mode-only)
 [![Twiiter](./img/twitter-dark.svg)](https://twitter.com/MAbobakr17#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)](https://instagram.com/mohamed_abobakr17#gh-dark-mode-only)
+[![Twitter](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-light-mode-only)
+[![Twitter](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-dark-mode-only)
 
 ### Languages and Tools:
 
