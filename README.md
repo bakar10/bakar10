@@ -15,20 +15,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://www.google.com/url?sa=i&url=https%3A%2F%2Far-ar.facebook.com%2F&psig=AOvVaw3R9EeQ4dsie_hOXImfoN9F&ust=1650766337058000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCbsfuNqfcCFQAAAAAdAAAAABAD)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/MAbobakr17#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/MAbobakr17#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/mohamed_abobakr17#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/mohamed_abobakr17#gh-dark-mode-only)
 
 
 ---
