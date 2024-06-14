@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mabobakr17" target="blank"><img src="https://img.shields.io/twitter/follow/mabobakr17?logo=twitter&style=for-the-badge" alt="mabobakr17" /></a> </p>
 
-- 🥅 2022 Goals: **Learn more about Data structures & Algorithms**
+
 
 - 🌱 I’m currently learning **everything 🤣**
 
