@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed - aka Bakar</h1>
-<h3 align="center">I'm an Undergraduate Student at Faculty of Computers and artificial intelligence at Cairo University</h3>
+<h3 align="center">I'm a Fresh graduate software engineer from the Faculty of Computers and Artificial Intelligence at Cairo University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakar10&label=Profile%20views&color=0e75b6&style=flat" alt="bakar10" /> </p>
 
@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mabobakr17" target="blank"><img src="https://img.shields.io/twitter/follow/mabobakr17?logo=twitter&style=for-the-badge" alt="mabobakr17" /></a> </p>
 
-
-
-- 🌱 I’m currently learning **everything 🤣**
 
 - 📫 How to reach me **mabobakr24@gmail.com**
 
